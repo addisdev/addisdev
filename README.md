@@ -16,6 +16,26 @@ grounded in what teams actually have to operate.
 
 ## Featured work
 
+### [Data Platform Reference](https://github.com/addisdev/data-platform-reference)
+
+A runnable synthetic playback pipeline that makes the reliability boundaries
+visible: a versioned event contract, durable quarantine, idempotent replay, a
+consumer-facing session model, and quality gates that publish their evidence.
+
+- Generates 1,000 valid events plus known defects, then proves the invalid
+  records were isolated without silently changing what the producer sent.
+- Turns raw events into session facts in DuckDB and emits a machine-readable
+  quality report that can block a pull request or deployment.
+- Includes full-path and replay tests, an architecture guide, a decision
+  record, and an operational runbook.
+
+**Demonstrates:** data contracts, reliable ingestion, dimensional modeling,
+data quality, operational ownership, and platform judgment.
+
+[Source](https://github.com/addisdev/data-platform-reference) ·
+[Architecture](https://github.com/addisdev/data-platform-reference/blob/main/docs/architecture.md) ·
+[Runbook](https://github.com/addisdev/data-platform-reference/blob/main/docs/runbook.md)
+
 ### [Fleet Runner](https://github.com/addisdev/fleet-runner)
 
 [![Fleet Runner: a shelf of old phones turned into a device lab](https://raw.githubusercontent.com/addisdev/fleet-runner/main/docs/img/banner.png)](https://github.com/addisdev/fleet-runner)
