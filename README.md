@@ -59,20 +59,9 @@ failure modeling, operational safety, and pragmatic system design.
 [Documentation](https://addisdev.github.io/actions-runners/) ·
 [Releases](https://github.com/addisdev/actions-runners/releases)
 
-## How I lead
+## Portfolio
 
-- Connect the client, pipeline, and analytical model instead of optimizing one
-  layer in isolation.
-- Make system behavior observable before teams have to debug it under pressure.
-- Write down the trade-offs, failure modes, and ownership boundaries that let a
-  team operate what it ships.
-- Stay hands-on enough to distinguish accidental complexity from constraints
-  that the team genuinely has to design around.
+**[Explore the full portfolio →](https://tayloraddison.dev)**
 
-## Current interests
-
-Data contracts and platform reliability · developer infrastructure ·
-on-device inference · cross-platform systems · engineering leadership
-
-The longer version of my work, career, and shipped products is at
-**[tayloraddison.dev](https://tayloraddison.dev)**.
+My career from iOS engineering to data-platform leadership, the products I have
+shipped end to end, and the work behind the public projects above.
