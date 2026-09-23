@@ -61,11 +61,6 @@ failure modeling, operational safety, and pragmatic system design.
 
 ## How I lead
 
-My public
-[Engineering Leadership Playbook](https://github.com/addisdev/engineering-leadership-playbook)
-contains the decision, launch, incident, and platform-review templates behind
-these principles:
-
 - Connect the client, pipeline, and analytical model instead of optimizing one
   layer in isolation.
 - Make system behavior observable before teams have to debug it under pressure.
