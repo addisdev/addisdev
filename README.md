@@ -24,8 +24,8 @@ what teams actually have to operate.
 A household's days on one computer at home. Each person's phone, watch and
 linked accounts send daily summaries to a hub the household runs itself, and a
 lakehouse on that hub answers questions about sleep, movement, places and money.
-Agents act on it only through a gate. Public beta on iPhone, Android, Wear OS
-and the web.
+Agents act on it only through a gate. The iPhone app is in public beta; the
+Android, Wear OS and web apps install from the household's own hub.
 
 - The data platform at household scale: stream contracts, a lakehouse with
   governed metrics and a semantic layer, and an MCP server over it.
